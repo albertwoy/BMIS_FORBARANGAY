@@ -1,0 +1,27 @@
+** Barangay Officials
+1. Organizational Chart
+2. 
+
+** Purok Entry
+1. Edit
+2. Delete
+ 
+** Resident Entry
+1. trap duplicate national id
+2. house no
+
+
+** resident list order
+1 natid
+2 lastname
+3 firstname
+4 midname
+5 bday
+6 age
+7 gender
+8 civil stat
+9 category
+10 address
+11 house
+12 id
+

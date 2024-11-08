@@ -1,0 +1,15 @@
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManagerBRV.exe.config
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManagerBRV.exe
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManagerBRV.pdb
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManagerBRV.xml
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.frmAppName.resources
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.frmManageUpdate.resources
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.Resources.resources
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.vbproj.GenerateResource.Cache
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.exe
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.xml
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManagerBRV.pdb
+D:\vb.net\exeupdater\vb\FJKUpdateManager\bin\Debug\UpdateManagerBRV.exe.config
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerBRV.exe
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerBRV.xml
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerBRV.pdb

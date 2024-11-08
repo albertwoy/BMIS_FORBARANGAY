@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83DA1DE1-859B-43E0-A243-A0DD33510ACB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BMIS.My.MyApplication</StartupObject>
+    <RootNamespace>BMIS</RootNamespace>
+    <AssemblyName>BMIS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BMIS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BMIS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>User Card.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib">
+      <HintPath>..\..\..\..\bankfiler_misamisbank\bin\Debug\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\qrcode\qr_code_generator\QR Code Generator\QR Code Generator\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.6, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\..\MUBuildingRoomViewer\Flat Design\Flat Design\bin\Debug\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Barcode">
+      <HintPath>..\..\..\..\qrcode\QRCode Reader Generator\QRCode Reader Generator\QRCode Reader Generator\bin\Debug\MessagingToolkit.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>..\..\..\..\qrcode\qr_code_generator\QR Code Generator\QR Code Generator\bin\Debug\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\ChedUnifast\ChedUnifast\ChedUnifast\bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\bankfiler_jimenez\bankfiler_nofolderauthentication\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup, Version=2.0.9.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Payroll2019\Payroll2019\KCCPayroll\bin\Debug\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassModules\ConnectionAvailable.vb" />
+    <Compile Include="ClassModules\MenuClass.vb" />
+    <Compile Include="Forms\frmBrgyClearanceList.Designer.vb">
+      <DependentUpon>frmBrgyClearanceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBrgyClearanceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcreateuser.Designer.vb">
+      <DependentUpon>frmcreateuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcreateuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDashBoard.Designer.vb">
+      <DependentUpon>frmDashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDownloadUpdates.Designer.vb">
+      <DependentUpon>frmDownloadUpdates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDownloadUpdates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmExtractUpdates.Designer.vb">
+      <DependentUpon>frmExtractUpdates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmExtractUpdates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGenerateList.Designer.vb">
+      <DependentUpon>frmGenerateList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGenerateList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmloading.Designer.vb">
+      <DependentUpon>frmloading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmloading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPurokEntry.Designer.vb">
+      <DependentUpon>frmPurokEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPurokEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPurokList.Designer.vb">
+      <DependentUpon>frmPurokList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPurokList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmResidentEntry.Designer.vb">
+      <DependentUpon>frmResidentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmResidentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmreport.Designer.vb">
+      <DependentUpon>frmreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmtrails.Designer.vb">
+      <DependentUpon>frmtrails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmtrails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewHouseHold.Designer.vb">
+      <DependentUpon>frmViewHouseHold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmViewHouseHold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmvpassdetail.Designer.vb">
+      <DependentUpon>frmvpassdetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmvpassdetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmResidentList.Designer.vb">
+      <DependentUpon>frmResidentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmResidentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBrgyClearanceEntry.Designer.vb">
+      <DependentUpon>frmBrgyClearanceEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBrgyClearanceEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHouseHold.Designer.vb">
+      <DependentUpon>frmHouseHold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHouseHold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmaddvisitor.Designer.vb">
+      <DependentUpon>frmaddvisitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmaddvisitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\define_functions.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Tourvoucher.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tourvoucher.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmBrgyClearanceList.resx">
+      <DependentUpon>frmBrgyClearanceList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcreateuser.resx">
+      <DependentUpon>frmcreateuser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDashBoard.resx">
+      <DependentUpon>frmDashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDownloadUpdates.resx">
+      <DependentUpon>frmDownloadUpdates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmExtractUpdates.resx">
+      <DependentUpon>frmExtractUpdates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGenerateList.resx">
+      <DependentUpon>frmGenerateList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmloading.resx">
+      <DependentUpon>frmloading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPurokEntry.resx">
+      <DependentUpon>frmPurokEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPurokList.resx">
+      <DependentUpon>frmPurokList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmResidentEntry.resx">
+      <DependentUpon>frmResidentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmreport.resx">
+      <DependentUpon>frmreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmtrails.resx">
+      <DependentUpon>frmtrails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewHouseHold.resx">
+      <DependentUpon>frmViewHouseHold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmvpassdetail.resx">
+      <DependentUpon>frmvpassdetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmResidentList.resx">
+      <DependentUpon>frmResidentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBrgyClearanceEntry.resx">
+      <DependentUpon>frmBrgyClearanceEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHouseHold.resx">
+      <DependentUpon>frmHouseHold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmaddvisitor.resx">
+      <DependentUpon>frmaddvisitor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Tourvoucher.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Tourvoucher.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="Reports\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{2A75196C-D9EB-4129-B803-931327F72D5C}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="health-insurance-1.ico" />
+    <None Include="Resources\001_52.gif" />
+    <None Include="Resources\114328.png" />
+    <None Include="Resources\1285049.png" />
+    <None Include="Resources\check_green.gif" />
+    <None Include="Resources\check_green_3.gif" />
+    <None Include="Resources\check_green_steady.jpg" />
+    <None Include="Resources\check_green2.gif" />
+    <None Include="Resources\check_green3_steady.jpg" />
+    <None Include="Resources\check-green.gif" />
+    <None Include="Resources\DROPFLDR.ICO" />
+    <None Include="Resources\Green-check-mark-icon.jpg" />
+    <None Include="Resources\Green-check-mark-icon.png" />
+    <None Include="Resources\Green-check-mark-icon1.jpg" />
+    <None Include="Resources\Green-check-mark-icon-on-transparent-background-PNG.png" />
+    <None Include="Resources\icons8-business-documentation-24.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\updatenow.jpg" />
+    <None Include="Resources\updatenow.png" />
+    <None Include="Resources\updatenow2.bmp" />
+    <None Include="Resources\updatenow2.png" />
+    <Content Include="User Card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

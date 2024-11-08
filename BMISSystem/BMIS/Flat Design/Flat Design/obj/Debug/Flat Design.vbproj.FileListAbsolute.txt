@@ -1,0 +1,24 @@
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\bin\Debug\Flat Design.exe.config
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\bin\Debug\Flat Design.exe
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\bin\Debug\Flat Design.pdb
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\bin\Debug\Flat Design.xml
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat Design.vbprojResolveAssemblyReference.cache
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat_Design.Form1.resources
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat_Design.Resources.resources
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat Design.vbproj.GenerateResource.Cache
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat Design.exe
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat Design.xml
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat Design.pdb
+c:\users\sir paya\documents\visual studio 2015\Projects\Flat Design\Flat Design\obj\Debug\Flat_Design.Form2.resources
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\bin\Debug\Flat Design.exe.config
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat Design.exe
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat Design.xml
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat Design.pdb
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\bin\Debug\Flat Design.exe
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\bin\Debug\Flat Design.pdb
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\bin\Debug\Flat Design.xml
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat Design.vbprojResolveAssemblyReference.cache
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat_Design.Form1.resources
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat_Design.Form2.resources
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat_Design.Resources.resources
+D:\vb.net\boracay_qrcode\VisMon2\Flat Design\Flat Design\obj\Debug\Flat Design.vbproj.GenerateResource.Cache

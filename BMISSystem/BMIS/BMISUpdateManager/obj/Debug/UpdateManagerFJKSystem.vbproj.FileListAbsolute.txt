@@ -1,0 +1,15 @@
+D:\vb.net\exeupdater\vb\FJKUpdateManager\bin\Debug\UpdateManagerFJKSystem.exe.config
+D:\vb.net\exeupdater\vb\FJKUpdateManager\bin\Debug\UpdateManagerFJKSystem.exe
+D:\vb.net\exeupdater\vb\FJKUpdateManager\bin\Debug\UpdateManagerFJKSystem.pdb
+D:\vb.net\exeupdater\vb\FJKUpdateManager\bin\Debug\UpdateManagerFJKSystem.xml
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.frmAppName.resources
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.frmManageUpdate.resources
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.Resources.resources
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.vbproj.GenerateResource.Cache
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.exe
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.xml
+D:\vb.net\exeupdater\vb\FJKUpdateManager\obj\Debug\UpdateManagerFJKSystem.pdb
+D:\vb.net\exeupdater\vb\BMISUpdateManager\bin\Debug\UpdateManagerFJKSystem.exe.config
+D:\vb.net\exeupdater\vb\BMISUpdateManager\obj\Debug\UpdateManagerFJKSystem.exe
+D:\vb.net\exeupdater\vb\BMISUpdateManager\obj\Debug\UpdateManagerFJKSystem.xml
+D:\vb.net\exeupdater\vb\BMISUpdateManager\obj\Debug\UpdateManagerFJKSystem.pdb

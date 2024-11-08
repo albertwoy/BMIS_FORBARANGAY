@@ -1,0 +1,197 @@
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\BMIS.exe.config
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\BMIS.exe
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\BMIS.pdb
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\BMIS.xml
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\MySql.Data.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Data.DataSetExtensions.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Data.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Deployment.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Drawing.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Net.Http.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Web.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Web.Services.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Xml.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Xml.Linq.dll
+D:\vb.net\ForInsurance\Flat Design\Flat Design\bin\Debug\System.Net.Http.xml
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmcreateuser.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmdashboard.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmGenerateList.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmloading.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmreport.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmtrails.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmvpassdetail.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.LoginForm.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.MainForm.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.frmaddvisitor.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.Resources.resources
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.GenerateResource.Cache
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.exe
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.xml
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.pdb
+D:\vb.net\ForInsurance\Flat Design\Flat Design\obj\Debug\BMIS.vbprojResolveAssemblyReference.cache
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe.config
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.exe
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.xml
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.pdb
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.pdb
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.xml
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\MySql.Data.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.DataSetExtensions.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Deployment.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Drawing.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.Services.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.Linq.dll
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.xml
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmcreateuser.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmdashboard.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmGenerateList.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmloading.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmreport.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmtrails.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmvpassdetail.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.LoginForm.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.MainForm.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmaddvisitor.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.Resources.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.GenerateResource.Cache
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDownloadUpdates.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmExtractUpdates.resources
+D:\vb.net\BMIS\Flat Design\Flat Design\bin\Debug\Ionic.Zip.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe.config
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.exe
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.xml
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.pdb
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.pdb
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.xml
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.DataSetExtensions.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Deployment.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Drawing.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.Services.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.Linq.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmcreateuser.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmdashboard.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDownloadUpdates.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmExtractUpdates.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmGenerateList.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmloading.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmreport.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmtrails.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmvpassdetail.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.LoginForm.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.MainForm.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmaddvisitor.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.Resources.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.GenerateResource.Cache
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentEntry.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentList.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokList.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokEntry.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmHouseHold.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceList.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceEntry.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe.config
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.exe
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.xml
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.pdb
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbprojResolveAssemblyReference.cache
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceList.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmcreateuser.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDashBoard.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDownloadUpdates.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmExtractUpdates.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmGenerateList.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmloading.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokEntry.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokList.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentEntry.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmreport.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmtrails.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmvpassdetail.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentList.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceEntry.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmHouseHold.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.LoginForm.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.MainForm.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmaddvisitor.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.Resources.resources
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.GenerateResource.Cache
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.pdb
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.xml
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\Bunifu_UI_v1.52.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\MessagingToolkit.Barcode.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\MessagingToolkit.QRCode.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\MySql.Data.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\MySqlBackup.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.DataSetExtensions.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Data.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Deployment.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Drawing.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Web.Services.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Windows.Forms.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Xml.Linq.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\Interop.AcroPDFLib.dll
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.xml
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\Interop.AcroPDFLib.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmViewHouseHold.resources
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.dll
+D:\VB Projects\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\System.Net.Http.xml
+D:\vb.net\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmViewHouseHold.resources
+D:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\bin\Debug\BMIS.exe.config
+D:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+D:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.exe
+D:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.xml
+D:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.pdb
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.AssemblyReference.cache
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.ResolveComReference.cache
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceList.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmcreateuser.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDashBoard.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmDownloadUpdates.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmExtractUpdates.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmGenerateList.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmloading.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokEntry.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmPurokList.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentEntry.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmreport.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmtrails.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmViewHouseHold.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmvpassdetail.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmResidentList.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmBrgyClearanceEntry.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmHouseHold.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.LoginForm.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.MainForm.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.frmaddvisitor.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.Resources.resources
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.GenerateResource.cache
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.vbproj.CoreCompileInputs.cache
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.exe
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.xml
+F:\vb.net\BRGY MIALEN CLARIN\BMISSystem\BMIS\Flat Design\Flat Design\obj\Debug\BMIS.pdb

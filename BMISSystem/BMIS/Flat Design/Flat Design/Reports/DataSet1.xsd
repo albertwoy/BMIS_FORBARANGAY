@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tvdet" msprop:Generator_TableClassName="tvdetDataTable" msprop:Generator_TableVarName="tabletvdet" msprop:Generator_TablePropName="tvdet" msprop:Generator_RowDeletingName="tvdetRowDeleting" msprop:Generator_RowChangingName="tvdetRowChanging" msprop:Generator_RowEvHandlerName="tvdetRowChangeEventHandler" msprop:Generator_RowDeletedName="tvdetRowDeleted" msprop:Generator_UserTableName="tvdet" msprop:Generator_RowChangedName="tvdetRowChanged" msprop:Generator_RowEvArgName="tvdetRowChangeEvent" msprop:Generator_RowClassName="tvdetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="vpassid" msprop:Generator_ColumnVarNameInTable="columnvpassid" msprop:Generator_ColumnPropNameInRow="vpassid" msprop:Generator_ColumnPropNameInTable="vpassidColumn" msprop:Generator_UserColumnName="vpassid" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="vs_names" msprop:Generator_ColumnVarNameInTable="columnvs_names" msprop:Generator_ColumnPropNameInRow="vs_names" msprop:Generator_ColumnPropNameInTable="vs_namesColumn" msprop:Generator_UserColumnName="vs_names" type="xs:string" minOccurs="0" />
+              <xs:element name="vs_ctno" msprop:Generator_ColumnVarNameInTable="columnvs_ctno" msprop:Generator_ColumnPropNameInRow="vs_ctno" msprop:Generator_ColumnPropNameInTable="vs_ctnoColumn" msprop:Generator_UserColumnName="vs_ctno" type="xs:string" minOccurs="0" />
+              <xs:element name="vs_nat" msprop:Generator_ColumnVarNameInTable="columnvs_nat" msprop:Generator_ColumnPropNameInRow="vs_nat" msprop:Generator_ColumnPropNameInTable="vs_natColumn" msprop:Generator_UserColumnName="vs_nat" type="xs:string" minOccurs="0" />
+              <xs:element name="grpno" msprop:Generator_ColumnVarNameInTable="columngrpno" msprop:Generator_ColumnPropNameInRow="grpno" msprop:Generator_ColumnPropNameInTable="grpnoColumn" msprop:Generator_UserColumnName="grpno" type="xs:unsignedInt" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tvhed" msprop:Generator_TableClassName="tvhedDataTable" msprop:Generator_TableVarName="tabletvhed" msprop:Generator_TablePropName="tvhed" msprop:Generator_RowDeletingName="tvhedRowDeleting" msprop:Generator_RowChangingName="tvhedRowChanging" msprop:Generator_RowEvHandlerName="tvhedRowChangeEventHandler" msprop:Generator_RowDeletedName="tvhedRowDeleted" msprop:Generator_UserTableName="tvhed" msprop:Generator_RowChangedName="tvhedRowChanged" msprop:Generator_RowEvArgName="tvhedRowChangeEvent" msprop:Generator_RowClassName="tvhedRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="travheaderimg" msprop:Generator_ColumnVarNameInTable="columntravheaderimg" msprop:Generator_ColumnPropNameInRow="travheaderimg" msprop:Generator_ColumnPropNameInTable="travheaderimgColumn" msprop:Generator_UserColumnName="travheaderimg" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="travdet1" msprop:Generator_ColumnVarNameInTable="columntravdet1" msprop:Generator_ColumnPropNameInRow="travdet1" msprop:Generator_ColumnPropNameInTable="travdet1Column" msprop:Generator_UserColumnName="travdet1" type="xs:string" minOccurs="0" />
+              <xs:element name="travdet2" msprop:Generator_ColumnVarNameInTable="columntravdet2" msprop:Generator_ColumnPropNameInRow="travdet2" msprop:Generator_ColumnPropNameInTable="travdet2Column" msprop:Generator_UserColumnName="travdet2" type="xs:string" minOccurs="0" />
+              <xs:element name="vpassid" msprop:Generator_ColumnVarNameInTable="columnvpassid" msprop:Generator_ColumnPropNameInRow="vpassid" msprop:Generator_ColumnPropNameInTable="vpassidColumn" msprop:Generator_UserColumnName="vpassid" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="vinc" msprop:Generator_ColumnVarNameInTable="columnvinc" msprop:Generator_ColumnPropNameInRow="vinc" msprop:Generator_ColumnPropNameInTable="vincColumn" msprop:Generator_UserColumnName="vinc" type="xs:string" minOccurs="0" />
+              <xs:element name="trava" msprop:Generator_ColumnVarNameInTable="columntrava" msprop:Generator_ColumnPropNameInRow="trava" msprop:Generator_ColumnPropNameInTable="travaColumn" msprop:Generator_UserColumnName="trava" type="xs:string" minOccurs="0" />
+              <xs:element name="travapa" msprop:Generator_ColumnVarNameInTable="columntravapa" msprop:Generator_ColumnPropNameInRow="travapa" msprop:Generator_ColumnPropNameInTable="travapaColumn" msprop:Generator_UserColumnName="travapa" type="xs:string" minOccurs="0" />
+              <xs:element name="nop" msprop:Generator_ColumnVarNameInTable="columnnop" msprop:Generator_ColumnPropNameInRow="nop" msprop:Generator_ColumnPropNameInTable="nopColumn" msprop:Generator_UserColumnName="nop" type="xs:string" minOccurs="0" />
+              <xs:element name="ckin" msprop:Generator_ColumnVarNameInTable="columnckin" msprop:Generator_ColumnPropNameInRow="ckin" msprop:Generator_ColumnPropNameInTable="ckinColumn" msprop:Generator_UserColumnName="ckin" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="cko" msprop:Generator_ColumnVarNameInTable="columncko" msprop:Generator_ColumnPropNameInRow="cko" msprop:Generator_ColumnPropNameInTable="ckoColumn" msprop:Generator_UserColumnName="cko" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="travnotsig" msprop:Generator_ColumnVarNameInTable="columntravnotsig" msprop:Generator_ColumnPropNameInRow="travnotsig" msprop:Generator_ColumnPropNameInTable="travnotsigColumn" msprop:Generator_UserColumnName="travnotsig" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="travnotb" msprop:Generator_ColumnVarNameInTable="columntravnotb" msprop:Generator_ColumnPropNameInRow="travnotb" msprop:Generator_ColumnPropNameInTable="travnotbColumn" msprop:Generator_UserColumnName="travnotb" type="xs:string" minOccurs="0" />
+              <xs:element name="travqr" msprop:Generator_ColumnVarNameInTable="columntravqr" msprop:Generator_ColumnPropNameInRow="travqr" msprop:Generator_ColumnPropNameInTable="travqrColumn" msprop:Generator_UserColumnName="travqr" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="travqrcod" msprop:Generator_ColumnVarNameInTable="columntravqrcod" msprop:Generator_ColumnPropNameInRow="travqrcod" msprop:Generator_ColumnPropNameInTable="travqrcodColumn" msprop:Generator_UserColumnName="travqrcod" type="xs:string" minOccurs="0" />
+              <xs:element name="travdencod" msprop:Generator_ColumnVarNameInTable="columntravdencod" msprop:Generator_ColumnPropNameInRow="travdencod" msprop:Generator_ColumnPropNameInTable="travdencodColumn" msprop:Generator_UserColumnName="travdencod" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="travnote" msprop:Generator_ColumnVarNameInTable="columntravnote" msprop:Generator_ColumnPropNameInRow="travnote" msprop:Generator_ColumnPropNameInTable="travnoteColumn" msprop:Generator_UserColumnName="travnote" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

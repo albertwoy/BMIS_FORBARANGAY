@@ -1,0 +1,12 @@
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManager.exe.config
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManager.exe
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManager.pdb
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManager.xml
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.vbproj.GenerateResource.Cache
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.exe
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.xml
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.pdb
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.frmAppName.resources
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.frmManageUpdate.resources
+D:\vb.net\exeupdater\vb\UpdateManager\obj\Debug\UpdateManager.Resources.resources
+D:\vb.net\exeupdater\vb\UpdateManager\bin\Debug\UpdateManagerBRV.exe.config
